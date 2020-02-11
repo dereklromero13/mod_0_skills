@@ -1,0 +1,11 @@
+class: fast food
+
+attributes: color (string)
+            waitTime (integer)
+            driveThrough (boolean)
+            sodas (array)
+
+methods: changeColor (modifies color attribute)
+         standInLine (modifies waitTime integer)
+         driveUp (sets driveThrough to true)
+         addSodas (add a soda to the end of the sodas array)

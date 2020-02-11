@@ -1,0 +1,11 @@
+Class: Restaurant
+
+Attributes: totalCapacity (integer)
+            isOpen (boolean)
+            tableNumbers (array)
+            color (string)
+
+Methods: open (sets isOpen to true)
+         changeColor (modifies color attribute)
+         addTables (add table to end of tableNumbers array)
+         newGuest (modifies totalCapacity)

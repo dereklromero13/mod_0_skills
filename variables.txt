@@ -1,0 +1,2 @@
+This is where the variables.txt file should have went in my assessment. At the beginning of part 3 I didn't change directories into the proper file. 
+The variable.txt push ended up in my classes folder I hope thats not a huge issue

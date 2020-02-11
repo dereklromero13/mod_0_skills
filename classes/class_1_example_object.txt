@@ -1,0 +1,13 @@
+Instance: wine bar
+
+Attributes:
+            totalCapacity: 101
+            isOpen: false
+            tableNumbers: ["101","102","103"];
+            color: "red"
+
+Methods:
+            open: isOpen = true
+            changeColor: "white"
+            addTables: ["101","102","103","104"];
+            newGuest: 101

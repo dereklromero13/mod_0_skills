@@ -1,0 +1,13 @@
+Instance: Mcdonalds
+
+Attributes:
+            color: "red"
+            waitTime: 2
+            driveThrough: true
+            sodas ["coke","sprite","pepsi"]
+
+Methods:
+            changeColor: "yellow"
+            standInLine: 2
+            driveUp: driveThrough = true
+            addsodas: ["coke", "sprite","pepsi","dr pepper","mountain dew"];
